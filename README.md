@@ -42,5 +42,7 @@ The data provides insights into how stock prices and company revenue have evolve
 ## 🤝 Contributing
 Feel free to fork the repository, submit issues, or open pull requests if you'd like to contribute!
 
+Find the same project on my IBM cloud: [Notebook On my cloud](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9108ceea-e53d-4bf9-bf57-4cb860d9bbc4/view?access_token=895eeedf24cfd1483f5ed0195945f63055f77a42ed94811ad42ba45697101d28&context=cpdaas)
+
 ## 📄 License
 This project is licensed under the MIT License.
